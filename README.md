@@ -1,5 +1,4 @@
 ```js
-
 public class SobreMim extends Desenvolvedor {
     private String GeorgePiter;
     private String JavaDeveloper;  
