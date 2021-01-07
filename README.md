@@ -1,4 +1,3 @@
-  <img height="25" src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/gpiter"></a>
 ```js
 
 public class SobreMim extends Desenvolvedor {
