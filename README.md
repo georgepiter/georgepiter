@@ -1,9 +1,9 @@
 ```js
 
 public class SobreMim extends Desenvolvedor {
-  private String George Piter;
-  private String Java developer;  
-}
+    private String GeorgePiter;
+    private String JavaDeveloper;  
+  }
 ```
 <h3 align="left" >🚀Skills</h3>
 
