@@ -1,4 +1,7 @@
-
+<p align="left">
+<a href="https://linkedin.com/in/gpiter/" target="blank"><img align="center" src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+ alt="www.linkedin.com/in/gpiter/" height="25" width="80" /></a>
+</p>
 
 
 ----
@@ -28,8 +31,5 @@
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=georgepiter&show_icons=true&locale=en&layout=compact" alt="georgepiter" /></p>
     
 </p>
-<p align="left">
-<a href="https://linkedin.com/in/gpiter/" target="blank"><img align="center" src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
- alt="www.linkedin.com/in/gpiter/" height="25" width="80" /></a>
-</p>
+
 
