@@ -16,6 +16,7 @@
   <img align="center" alt="piter-mysql" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="postgresql" height="40" width="40" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg">
   <img align="center" alt="piter-mongodb" height="60" width="90" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
+  <img align="center" alt="mariaDb" height="60" width="90" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21.svg">
   <img align="center" alt="piter-postman" height="40" width="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
   <img align="center" alt="github" height="60" width="50" src="https://www.vectorlogo.zone/logos/github/github-icon.svg">
   <img align="center" alt="heroku" height="40" width="50" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg">
