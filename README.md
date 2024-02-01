@@ -7,7 +7,8 @@
 <h3 align="left" >🚀Skills</h3> 
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="piter-Java" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="piter-Java" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+   <img align="center" alt="piter-Go" height="60" width="80" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg">
   <img align="center" alt="Piter-spring" height="40" width="40" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg">
   <img align="center" alt="piter-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="piter-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
