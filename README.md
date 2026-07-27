@@ -17,13 +17,16 @@ Atualmente meu foco esta em:
 - Java, Spring Boot e arquitetura backend bem estruturada.
 - Go para servicos, APIs e solucoes backend enxutas.
 - PostgreSQL, Liquibase, modelagem de dados e performance.
-- Docker, ambientes locais reproduziveis e preparacao para producao.
+- Docker, cloud e ambientes preparados para producao.
+- AWS, Google Cloud, Azure e Azure DevOps.
 - Seguranca com JWT, roles, multi-tenant e boas praticas de API.
 
 ## Stack principal
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,go,postgres,docker,git,github,idea,vscode" alt="Stack principal" />
+  <img src="https://skillicons.dev/icons?i=java,spring,go,postgres,docker,aws,gcp,azure,git,github,idea,vscode" alt="Stack principal" />
+  <br />
+  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps" />
 </div>
 
 ## Tecnologias e ferramentas
@@ -32,7 +35,7 @@ Atualmente meu foco esta em:
 | --- | --- |
 | Backend | Java, Go, Spring Boot, Spring Security, Spring Data JPA, JWT |
 | Banco de dados | PostgreSQL, MySQL, MariaDB, MongoDB, Liquibase |
-| DevOps | Docker, Docker Compose, Git, GitHub |
+| DevOps e Cloud | Docker, Docker Compose, Git, GitHub, AWS, Google Cloud, Azure, Azure DevOps |
 | Qualidade | JUnit, Mockito, Playwright, testes funcionais e validacao E2E |
 | APIs | REST, OpenAPI/Swagger em ambiente dev, integracoes externas |
 
