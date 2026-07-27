@@ -1,27 +1,92 @@
+<h1 align="left">George Piter</h1>
+
 <p align="left">
-<a href="https://linkedin.com/in/gpiter/" target="blank"><img align="center" src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
- alt="www.linkedin.com/in/gpiter/" height="25" width="80" /></a>
+  Desenvolvedor Full Stack com foco em backend Java, sistemas SaaS, APIs REST,
+  bancos de dados relacionais e solucoes para gestao de negocios.
 </p>
 
-----
-<h3 align="left" >🚀Skills</h3> 
+<p align="left">
+  <a href="https://linkedin.com/in/gpiter/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-George%20Piter-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:george.piter@outlook.com">
+    <img src="https://img.shields.io/badge/E--mail-george.piter%40outlook.com-1E40AF?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="E-mail" />
+  </a>
+</p>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="piter-Java" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-   <img align="center" alt="piter-Go" height="60" width="80" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg">
-  <img align="center" alt="Piter-spring" height="40" width="40" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg">
-  <img align="center" alt="piter-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="piter-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="piter-boot" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
-  <img align="center" alt="piter-oracle" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
-  <img align="center" alt="piter-mysql" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="postgresql" height="40" width="40" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg">
-  <img align="center" alt="piter-mongodb" height="60" width="90" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
-  <img align="center" alt="mariaDb" height="60" width="90" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21.svg">
-  <img align="center" alt="piter-postman" height="40" width="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
-  <img align="center" alt="github" height="60" width="50" src="https://www.vectorlogo.zone/logos/github/github-icon.svg">
-  <img align="center" alt="heroku" height="40" width="50" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg">
-  <img align="center" alt="vscode" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png">
-  <img align="center" alt="intellij" height="50" width="50" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/intellij_alt_macos_bigsur_icon_190060.png">
+---
+
+## Sobre mim
+
+Sou apaixonado por transformar operacoes manuais em sistemas organizados,
+seguros e escalaveis. Tenho trabalhado principalmente com aplicacoes web,
+multi-tenant, automacao de processos, dashboards gerenciais e integracoes com
+servicos externos.
+
+Atualmente meu foco esta em:
+
+- Java, Spring Boot e arquitetura backend bem estruturada.
+- PostgreSQL, Liquibase, modelagem de dados e performance.
+- React, TypeScript e interfaces SaaS responsivas.
+- Docker, ambientes locais reproduziveis e preparacao para producao.
+- Seguranca com JWT, roles, multi-tenant e boas praticas de API.
+
+## Stack principal
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,react,ts,vite,tailwind,git,github,idea,vscode" alt="Stack principal" />
 </div>
 
+## Tecnologias e ferramentas
+
+| Area | Ferramentas |
+| --- | --- |
+| Backend | Java, Spring Boot, Spring Security, Spring Data JPA, JWT |
+| Banco de dados | PostgreSQL, MySQL, MariaDB, MongoDB, Liquibase |
+| Frontend | React, TypeScript, Vite, Tailwind CSS |
+| DevOps | Docker, Docker Compose, Git, GitHub |
+| Qualidade | JUnit, Mockito, Playwright, testes funcionais e validacao E2E |
+| APIs | REST, OpenAPI/Swagger em ambiente dev, integracoes externas |
+
+## Projetos em destaque
+
+### Stock Hub Car
+
+SaaS de gestao para revendas de veiculos, com controle de estoque, clientes,
+vendas, documentos, comissoes, contas a pagar, contas a receber, relatorios,
+dashboard executivo e arquitetura multi-tenant.
+
+Principais pontos tecnicos:
+
+- Backend Java com Spring Boot, Spring Security, JWT e PostgreSQL.
+- Frontend React com TypeScript, Tailwind e TanStack Query.
+- Controle de permissoes por perfil: Admin, Gerente, Financeiro e Vendedor.
+- Regras financeiras para vendas, comissoes, salarios, despesas e recebiveis.
+- Upload de documentos com armazenamento externo.
+- Dashboard e relatorios por periodo.
+
+### Sistemas SaaS e automacoes
+
+Projetos voltados para digitalizar rotinas operacionais, reduzir uso de
+planilhas e centralizar dados importantes para tomada de decisao.
+
+## Como gosto de construir software
+
+- Entender a regra de negocio antes de escrever codigo.
+- Separar responsabilidades entre controller, service, repository e camada de DTO.
+- Usar banco de dados como parte central da consistencia do sistema.
+- Criar telas simples para o usuario final, mesmo quando a regra por tras e complexa.
+- Validar fluxos completos, incluindo permissoes, calculos, filtros e relatorios.
+
+## GitHub
+
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=georgepiter&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgepiter&layout=compact&theme=default&hide_border=true" alt="Top languages" />
+</p>
+
+---
+
+<p align="left">
+  Sempre evoluindo projetos com foco em negocio, clareza tecnica e experiencia real de uso.
+</p>
