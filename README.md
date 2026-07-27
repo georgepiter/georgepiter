@@ -5,17 +5,6 @@
   bancos de dados relacionais e solucoes para gestao de negocios.
 </p>
 
-<p align="left">
-  <a href="https://linkedin.com/in/gpiter/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-George%20Piter-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:george.piter@outlook.com">
-    <img src="https://img.shields.io/badge/E--mail-george.piter%40outlook.com-1E40AF?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="E-mail" />
-  </a>
-</p>
-
----
-
 ## Sobre mim
 
 Sou apaixonado por transformar operacoes manuais em sistemas organizados,
