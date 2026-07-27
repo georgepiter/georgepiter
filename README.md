@@ -15,24 +15,23 @@ servicos externos.
 Atualmente meu foco esta em:
 
 - Java, Spring Boot e arquitetura backend bem estruturada.
+- Go para servicos, APIs e solucoes backend enxutas.
 - PostgreSQL, Liquibase, modelagem de dados e performance.
-- React, TypeScript e interfaces SaaS responsivas.
 - Docker, ambientes locais reproduziveis e preparacao para producao.
 - Seguranca com JWT, roles, multi-tenant e boas praticas de API.
 
 ## Stack principal
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,react,ts,vite,tailwind,git,github,idea,vscode" alt="Stack principal" />
+  <img src="https://skillicons.dev/icons?i=java,spring,go,postgres,docker,git,github,idea,vscode" alt="Stack principal" />
 </div>
 
 ## Tecnologias e ferramentas
 
 | Area | Ferramentas |
 | --- | --- |
-| Backend | Java, Spring Boot, Spring Security, Spring Data JPA, JWT |
+| Backend | Java, Go, Spring Boot, Spring Security, Spring Data JPA, JWT |
 | Banco de dados | PostgreSQL, MySQL, MariaDB, MongoDB, Liquibase |
-| Frontend | React, TypeScript, Vite, Tailwind CSS |
 | DevOps | Docker, Docker Compose, Git, GitHub |
 | Qualidade | JUnit, Mockito, Playwright, testes funcionais e validacao E2E |
 | APIs | REST, OpenAPI/Swagger em ambiente dev, integracoes externas |
@@ -48,7 +47,7 @@ dashboard executivo e arquitetura multi-tenant.
 Principais pontos tecnicos:
 
 - Backend Java com Spring Boot, Spring Security, JWT e PostgreSQL.
-- Frontend React com TypeScript, Tailwind e TanStack Query.
+- Interface web para operacao diaria da loja.
 - Controle de permissoes por perfil: Admin, Gerente, Financeiro e Vendedor.
 - Regras financeiras para vendas, comissoes, salarios, despesas e recebiveis.
 - Upload de documentos com armazenamento externo.
