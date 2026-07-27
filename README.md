@@ -25,8 +25,7 @@ Atualmente meu foco esta em:
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java,spring,go,postgres,docker,aws,gcp,azure,git,github,idea,vscode" alt="Stack principal" />
-  <br />
-  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps" />
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" alt="Azure DevOps" />
 </div>
 
 ## Tecnologias e ferramentas
