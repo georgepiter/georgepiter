@@ -19,7 +19,7 @@ Atualmente meu foco esta em:
 - PostgreSQL, Liquibase, modelagem de dados e performance.
 - Docker, cloud e ambientes preparados para producao.
 - AWS, Google Cloud, Azure e Azure DevOps.
-- Seguranca com JWT, roles, multi-tenant e boas praticas de API.
+- Seguranca com JWT, roles,multi-tenant.
 
 ## Stack principal
 
@@ -36,7 +36,7 @@ Atualmente meu foco esta em:
 | Banco de dados | PostgreSQL, MySQL, MariaDB, MongoDB, Liquibase |
 | DevOps e Cloud | Docker, Docker Compose, Git, GitHub, AWS, Google Cloud, Azure, Azure DevOps |
 | Qualidade | JUnit, Mockito, Playwright, testes funcionais e validacao E2E |
-| APIs | REST, OpenAPI/Swagger em ambiente dev, integracoes externas |
+| APIs | REST, documentação Swagger, integracoes externas |
 
 ---
 
